@@ -105,6 +105,7 @@ export default function Sidebar() {
         { name: "Forum", icon: MessageCircle, href: "/dashboard/forum" },
       ],
     },
+    
   ];
 
   return (
